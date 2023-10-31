@@ -14,8 +14,6 @@ function App() {
         <Route path="/Accueil" element={<Accueil/>}></Route>
         <Route path="/Panier" element={<Panier/>}></Route>
         <Route path="/Products" element={<Products/>}></Route>
-
-
       </Routes>
       </BrowserRouter>      
     </div>
